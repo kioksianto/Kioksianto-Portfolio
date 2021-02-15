@@ -1,9 +1,9 @@
 # Kioksianto-Portfolio
-{Kiok SIanto Portfolio}
+{Kiok Sianto Portfolio}
 #### {a portfolio landing page}, {15/02/2021}
 #### By **{Kiok Sianto}**
 ## Description
-This landind page provides a brief background of Kiok Sianto a front-end developer/UI/Ux designer. it also give a link to some of her work. 
+This is a landind page that provides a brief background of Kiok Sianto a front-end developer/UI/UX designer. It also give a link to some of her work. 
 This project was set-up in order to sell and showcase Kiok Sianto's services.
 ## Known Bugs
 No Known bugs

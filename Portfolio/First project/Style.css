@@ -73,7 +73,7 @@ body {
 /* Portfolio */
 .portfolio-items-wrapper {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
 }
 .portfolio-item-wrapper {
   position: relative;
@@ -86,15 +86,15 @@ body {
   background-repeat: no-repeat;
   margin: 0px;
 }
-.subtitle {
+.subtitle-1 {
   position: absolute;
   top: 0;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   height: 100%;
-  text-align: center;
+  text-align: justify;
   padding-left: 100px;
   padding-right: 100px;
   font-size: 1.88em;

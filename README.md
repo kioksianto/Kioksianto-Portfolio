@@ -3,9 +3,6 @@
 #### {a portfolio landing page}, {15/02/2021}
 #### By **{Kiok Sianto}**
 ## Description
-gh-pages link: https://github.com/kioksianto/Kioksianto-Portfolio/tree/main/Portfolio/First%20project
-
-github link: https://github.com/kioksianto/firstproject
 This landind page provides a brief background of Kiok Sianto a front-end developer/UI/Ux designer. it also give a link to some of her work. 
 This project was set-up in order to sell and showcase Kiok Sianto's services.
 ## Known Bugs
